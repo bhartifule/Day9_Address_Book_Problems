@@ -67,5 +67,4 @@ public class PersonDetails {
         this.contactNumber = contactNumber;
     }
 
-
 }
