@@ -2,7 +2,8 @@ package com.bridgelabz.day9;
 
 import java.util.Scanner;
 
-public class AddressBook {
+public class AddressBook
+{
 	 PersonDetails obj = new PersonDetails();
 	    int count=0;
 	    String arr[] = new String[70];
