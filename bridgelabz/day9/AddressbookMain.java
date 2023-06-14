@@ -1,6 +1,7 @@
 package com.bridgelabz.day9;
 
-public class AddressbookMain {
+public class AddressbookMain 
+{
 	public static void main(String[] args) {
         System.out.println("Welcome to Address Book Program");
         AddressBook obj1 = new AddressBook();
