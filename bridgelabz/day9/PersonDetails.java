@@ -2,7 +2,8 @@ package com.bridgelabz.day9;
 
 import java.util.Scanner;
 
-public class PersonDetails {
+public class PersonDetails 
+{
 	 private String name ;
 	    private String surName;
 	    private String address;
