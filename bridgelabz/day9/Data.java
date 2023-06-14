@@ -1,6 +1,7 @@
 package com.bridgelabz.day9;
 
-public class Data {
+public class Data
+{
 	private String name ;
     private String surName;
     private String address;
