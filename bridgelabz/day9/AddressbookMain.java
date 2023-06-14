@@ -3,7 +3,8 @@ package com.bridgelabz.day9;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class AddressbookMain {
+public class AddressbookMain
+{
 	public static void main(String[] args) {
         int choice = 10, count = 0;
         System.out.println("Welcome in AddressBook");
