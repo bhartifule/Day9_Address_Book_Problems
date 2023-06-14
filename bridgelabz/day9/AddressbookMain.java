@@ -18,7 +18,7 @@ public class AddressbookMain {
             else if (choice == 2)
                 addBook.showMyAddress();
             else
-                System.out.println("Chouse correct option ");
+                System.out.println("Choice correct option ");
         }
 
     }
