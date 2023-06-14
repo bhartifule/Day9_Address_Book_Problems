@@ -3,7 +3,8 @@ package com.bridgelabz.day9;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class AddressBook {
+public class AddressBook 
+{
 	ArrayList<PersonDetails> contactList = new ArrayList<>();
 
     public void addContact() {
